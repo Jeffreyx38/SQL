@@ -1,0 +1,26 @@
+--Group by Jefferson And Aileen
+
+Requirements -- Online Hotel Booking
+
+This online business cotains a database of hotels.
+The hotels are all owned by the same company 
+but have different locations and can have different names.
+People can search by
+the hotel's name, or by what amenitites are offered, or by which hotel has rooms available.
+Guest can't select 
+a specific room number, but they can select a type of room. Their room number 
+is assigned on the day of their check in based on the type they chose. 
+There are many rooms for each type of room at a hotel, so it is possible 
+to have two people staying in the same 'room type'.
+
+There are many hotels.
+A hotel has many rooms.
+
+Many guests can book a hotel.
+Only one guest can reserve a particular room for any given days.
+
+A guests name, address, phone number, email address, and credit card number are requires for booking.
+The guest attribute will also keep track on when they are to check in and check out.
+
+
+
